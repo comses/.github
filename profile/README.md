@@ -5,3 +5,5 @@ CoMSES Net, the Network for Computational Modeling in the Social and Ecological 
 CoMSES formed in 2007 as a result of a community-driven planning workshop supported by the US National Science Foundation. Since then, the CoMSES Net team has been working alongside community partners and open science pioneers to develop digital research infrastructure that improves the ways we design, develop and share the computational models that underpin research findings - to make them more [FAIR](https://www.nature.com/articles/s41597-022-01710-x) and more transparent, accessible, understandable, interoperable, and reusable. 
 
 Our mission is to promote and support knowledge sharing among an international community of scientists and the general public and provide open, transparent access to community curated information resources that bring innovations and best practices from industry and academia to scientists and researchers that specialize in earth and social systems science.
+
+Please visit our Education [GitHub organization](https://github.com/comses-education) and [Training Modules](https://www.comses.net/education/) for additional educational opportunities and resources.
